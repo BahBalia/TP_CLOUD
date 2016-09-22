@@ -1,0 +1,16 @@
+#Structure d'un fichier yml :
+#NomClasse(nomInstance):
+#   attributClasse1: valeur
+#   attributClasse2: valeur
+#   attributClasse3: valeur
+#   ...
+
+Tache(t1):
+    libelle: Create tache 1
+    statut: true
+    description: blabla
+
+Tache(t2):
+    libelle: Create tache 2
+    statut: 
+    description: blabla2
